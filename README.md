@@ -55,6 +55,6 @@ Features include:
 
 - Table booking, Menu, Administrative section
 
-👉 Check my pinned repositories below  
-
 ---
+
+👉 Check my pinned repositories below  
