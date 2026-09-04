@@ -1,22 +1,29 @@
-## Hi, I'm Desh 👋
+# Hi, I'm Desh 👋
 
-Frontend Developer (React, Next.js, Express.js)
+## Junior Frontend Developer
 
-💻 7 months commercial experience (Vue.js)  
-🚀 Building web applications & UI  
-📍 Open to internships  
+I'm a junior frontend developer with experience in Vue.js and hands-on experience building web applications with React, Node.js and Express.js.
+
+- 🎓 Information Systems and Programming graduate
+- 💻 Frontend development experience with Vue.js
+- 🚀 Building web applications and fullstack projects
+- 📍 Open to junior positions and internships
 
 ---
 
 ## 🛠 Tech Stack
 
 **Frontend:**
+- HTML5, CSS3, BEM, Responsive Design
 - React, Next.js
 - JavaScript (ES6+)
-- HTML5, CSS3, BEM, Responsive Design
+- TypeScript (basic)
+- Bootstrap5
+
 
 **Backend (basic):**
 - Node.js, Express.js
+- REST API
 
 **Databases:**
 - MySQL, MongoDB
@@ -29,29 +36,25 @@ Frontend Developer (React, Next.js, Express.js)
 ## 💼 Experience
 
 **Frontend Developer Intern (Vue.js)**  
-- Refactored and optimized components  
-- Fixed bugs and improved functionality  
-- Worked with existing codebase  
+- Worked with an existing Vue.js codebase
+- Refactored and optimized components
+- Implemented improvements and new functionality
+- Worked with existing interfaces and development tasks
 
 ---
 
 ## 🚀 Projects
 
+**Restaurant Website — Diploma Project**
+
+Fullstack web application built with:
+
+- React, Node.js / Express.js, REST API, MySQL
+
+Features include:
+
+- Table booking, Menu, Administrative section
+
 👉 Check my pinned repositories below  
 
 ---
-
-<!--
-**DDeesshh/DDeesshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
