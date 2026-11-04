@@ -2,24 +2,23 @@
 
 ## Junior Frontend Developer
 
-I'm a junior frontend developer with experience in Vue.js and hands-on experience building web applications with React, Node.js and Express.js.
+I'm a junior frontend developer with practical experience in Vue.js and React. I enjoy building web applications, creating user-friendly interfaces, and learning new technologies.
 
-- 🎓 Information Systems and Programming graduate
-- 💻 Frontend development experience with Vue.js
-- 🚀 Building web applications and fullstack projects
-- 📍 Open to junior positions and internships
+- 🎓 Graduate in Information Systems and Programming
+- 💻 Experience working with Vue.js and an existing codebase
+- 🚀 Built web applications using React, Node.js, and Express
+- 📍 Open to Junior Frontend Developer positions and internships
 
 ---
 
 ## 🛠 Tech Stack
 
 **Frontend:**
-- HTML5, CSS3, BEM, Responsive Design
-- React, Next.js
-- JavaScript (ES6+)
-- TypeScript (basic)
-- Bootstrap5
-
+- HTML5, CSS3, JavaScript (ES6+)
+- React, Vue.js
+- TypeScript
+- Bootstrap 5, BEM
+- Responsive Web Design
 
 **Backend (basic):**
 - Node.js, Express.js
@@ -37,23 +36,41 @@ I'm a junior frontend developer with experience in Vue.js and hands-on experienc
 
 **Frontend Developer Intern (Vue.js)**  
 - Worked with an existing Vue.js codebase
-- Refactored and optimized components
-- Implemented improvements and new functionality
-- Worked with existing interfaces and development tasks
+- Improved and refactored existing components
+- Fixed issues and added new features
+- Worked on user interface improvements
 
 ---
 
 ## 🚀 Projects
 
-**Restaurant Website — Diploma Project**
+### **RUSK – Restaurant Web Application**
 
-Fullstack web application built with:
+My diploma project: a full-stack web application for a restaurant.
 
-- React, Node.js / Express.js, REST API, MySQL
+**Built with:** React, JavaScript, Node.js, Express.js, MySQL, REST API.
 
-Features include:
+**Main features:**
+- User registration and login
+- Personal user accounts
+- Online table reservations
+- Restaurant menu and product categories
+- Shopping cart and favourites
+- Admin panel
 
-- Table booking, Menu, Administrative section
+
+### **daniloff.biz – Commercial Web Project**
+
+Took part in frontend development as a member of a team.
+
+- Helped develop and improve user interfaces
+- Worked on frontend tasks as part of the development process
+
+---
+
+### 📫 Contact
+
+GitHub: [DDeesshh](https://github.com/DDeesshh)
 
 ---
 
